@@ -27,10 +27,10 @@ Weekly Split Example:
 Day    Focus
 Day 1    Full Body Strength
 Day 2    HIIT/Cardio
-Day 3    Core & Mobility
+Day 3    Mobility
 Day 4    Upper Body Push
 Day 5    Lower Body
-Day 6    Recovery + Stretch
+Day 6    Active Recovery/Cardio
 Day 7    Challenge Circuit
 
 Note:
@@ -40,6 +40,13 @@ Each workout is designed to last 10-15 minutes.
 
 Video Library Page (Coming Soon)
 11 custom videos explaining form, progressions, and coaching tips will be available here soon. Stay tuned and check back!
+11 videos, designed and filmed by me, BG
+3 Resistance training videos, 1 video will only use household items
+3 Cardio training videos
+1 Chair workout video
+2 Mobility training videos
+2 “Fan Favorite” videos
+1 Warm-up video
 
 Contact Page
     •    Name: Braden Gunn
